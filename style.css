@@ -26,15 +26,37 @@ h2 {
 
 hr { 
     border-style: dotted none none ; 
-    width: 5%;
-    border-color:#fd7792;
+    width: 10%;
+    border-color:#ffac8e;
     border-width: 8px;
    
 }
 
 #my-pitch{
     background-color: #55ae95;
-    height: 500px;
+    height: auto;
     margin-top: 100px;
 
 }
+
+.text-justify {
+    text-align: justify;
+} 
+
+.click-me{
+    width: 200px;
+} 
+
+.contact-form {
+    height: auto;
+
+
+}
+
+textarea {
+    height: 150px;
+  } 
+
+  .sent-btn{
+      background-color:#55ae95 ;
+  }
