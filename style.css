@@ -57,6 +57,15 @@ textarea {
     height: 150px;
   } 
 
-  .sent-btn{
-      background-color:#55ae95 ;
-  }
+.sent-btn{
+    background-color:#55ae95 ;
+} 
+
+#footer{
+    background-color: #3f4d71;
+    height: 300px;
+}
+
+.icons i {
+    margin: 5px;
+}
