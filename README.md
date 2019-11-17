@@ -1,2 +1,3 @@
 # bootstrap-portfolio-template
-Portfolio template using Bootstrap 4
+Project @ EC Utbildning 2019: Build a portfolio using Bootstrap 
+| https://portfolio-template-by-nasim.netlify.com/
